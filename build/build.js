@@ -194,7 +194,7 @@ function mkdir(dir)
 
 	var parts = dir.split('/');
 
-	dir = '/';
+	dir = process.platform == "win32" ? "" : "/";
 
 	for(var i = 0; i < parts.length; i++)
 	{
