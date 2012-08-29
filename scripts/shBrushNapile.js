@@ -5,17 +5,18 @@
 
 	function Brush()
 	{
-		var keywords =	'abstract assert break catch class ' +
+		var keywords =
+			'abstract break catch class ' +
 			'continue do else enum ' +
 			'false final finally for if import ' +
-			'native null ' +
+			'null ' +
 			'package return ' +
 			'covered heritable local ' +
-			'var object ' +
-			'meth when ' +
+			'var val anonym ' +
+			'meth when where' +
 			'return ' +
-			'static super synchronized this throw throws true ' +
-			'transient try volatile while';
+			'static super this throw true ' +
+			'try while';
 
 		this.regexList = [
 			{ regex: SyntaxHighlighter.regexLib.singleLineCComments,	css: 'comments' },		// one line comments
