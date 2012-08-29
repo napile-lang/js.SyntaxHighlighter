@@ -13,7 +13,7 @@
 			'package return ' +
 			'covered heritable local ' +
 			'var val anonym ' +
-			'meth when where' +
+			'meth when where ' +
 			'return ' +
 			'static super this throw true ' +
 			'try while';
