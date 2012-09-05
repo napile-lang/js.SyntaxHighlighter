@@ -7,7 +7,7 @@
 	{
 		var keywords =
 			'abstract break catch class ' +
-			'continue do else enum ' +
+			'continue do else enum retell ' +
 			'false final finally for if import ' +
 			'null ' +
 			'package return ' +
