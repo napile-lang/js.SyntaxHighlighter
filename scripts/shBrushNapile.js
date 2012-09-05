@@ -11,7 +11,7 @@
 			'false final finally for if import ' +
 			'null ' +
 			'package return ' +
-			'covered heritable local ' +
+			'covered heritable local override ' +
 			'var val anonym ' +
 			'meth when where ' +
 			'return ' +
