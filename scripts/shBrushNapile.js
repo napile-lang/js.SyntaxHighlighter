@@ -16,7 +16,7 @@
 			'meth when where ' +
 			'return ' +
 			'static super this throw true ' +
-			'try while as is';
+			'try while as is ';
 
 		this.regexList = [
 			{ regex: SyntaxHighlighter.regexLib.singleLineCComments,	css: 'comments' },		// one line comments
