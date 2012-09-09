@@ -6,15 +6,14 @@
 	function Brush()
 	{
 		var keywords =
-			'abstract break catch class ' +
-			'continue do else enum retell ' +
+			'abstract break catch ' +
+			'continue do else ' +
 			'false final finally for if import ' +
 			'null ' +
 			'package return ' +
 			'covered heritable local override ' +
-			'var val anonym ' +
-			'meth when where ' +
-			'return ' +
+			'var meth class enum retell anonym label ' +
+			'return when where' +
 			'static super this throw true ' +
 			'try while as is ';
 
