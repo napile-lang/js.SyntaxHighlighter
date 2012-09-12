@@ -13,7 +13,7 @@
 			'package return ' +
 			'covered heritable local override ' +
 			'var meth class enum retell anonym label ' +
-			'return when where ' +
+			'return when ' +
 			'static super this throw true ' +
 			'try while as is ';
 
