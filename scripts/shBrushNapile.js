@@ -11,11 +11,12 @@
 			'false final finally for if import ' +
 			'null ' +
 			'package return ' +
-			'covered heritable local override ' +
-			'var meth class enum retell anonym label ' +
+			'covered heritable local override enum ' +
+			'var meth class anonym label ' +
+			'classOf typeOf arrayOf ' +
 			'return when ' +
 			'static super this throw true ' +
-			'try while as is ';
+			'try while as is in ';
 
 		this.regexList = [
 			{ regex: SyntaxHighlighter.regexLib.singleLineCComments,	css: 'comments' },		// one line comments
